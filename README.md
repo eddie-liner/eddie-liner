@@ -7,14 +7,13 @@
 </div>
 
 #### 📖 Research Interests
-- Large Language Models, Data Synthesis, LLM Evaluation
-- Recommender Systems, Data Science/Mining, Machine/Deep Learning
+- Large Language Models, Agentic Systems, Post-training, Data Synthesis
+- Evaluation, Recommender Systems, Data Science/Mining, Machine/Deep Learning
 
 <div align=center>
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yungi-kim/)
 [![CV Bage](http://img.shields.io/badge/-CV-181717?style=flat&logo=Github&logoColor=white&link=https://m.site.naver.com/1eDjA)](https://m.site.naver.com/1eDjA)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eddie@upstage.ai)](mailto:eddie@upstage.ai)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimyungi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gozj3319@agape.hanyang.ac.kr)](mailto:gozj3319@agape.hanyang.ac.kr)
 
 </div>
